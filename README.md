@@ -1,4 +1,4 @@
-# PERSONAL_CertificadosDiplomas
-Proyecto de Certificados y Diplomas 
+# Generador_AutoM_CertificadosDiplomas
+Proyecto de Certificados y Diplomas
 
-AnderCode
+Gabriel Magallanes
